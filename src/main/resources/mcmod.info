@@ -1,0 +1,16 @@
+[
+{
+  "modid": "serverpauser",
+  "name": "Serverpauser",
+  "description": "",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Smileycorp"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
