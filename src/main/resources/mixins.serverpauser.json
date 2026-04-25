@@ -1,11 +1,11 @@
 {
+  "required": true,
   "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8",
   "package": "net.smileycorp.serverpauser.mixin",
   "refmap": "mixins.serverpauser.refmap.json",
-  "mixins": [
-  ],
-  "client": [
-  ],
+  "mixins": [],
+  "client": [],
   "server": [
 	"MixinWorldServer"
   ]
